@@ -1,1 +1,1 @@
-Learning Frontend Development using Scrimba
+Learning Frontend Development on Scrimba
