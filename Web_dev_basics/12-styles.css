@@ -1,0 +1,10 @@
+/* Padding */
+.card {
+    background: green;
+    color: white;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}

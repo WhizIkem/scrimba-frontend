@@ -1,0 +1,13 @@
+/* Border */
+.card {
+    background: green;
+    color: white;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+
+    border: 5px solid orange;
+    border-radius: 20px;
+}
