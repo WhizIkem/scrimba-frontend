@@ -1,0 +1,14 @@
+/* Styling buisness card. wrapping the container, adding padding and flexbox */
+body {
+  margin: 20px;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  border: 1px dotted blue;
+  padding: 20px;
+  display: flex;
+}

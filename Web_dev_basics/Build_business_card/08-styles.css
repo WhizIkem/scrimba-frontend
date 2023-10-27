@@ -1,0 +1,31 @@
+/* Styling buisness card. improving margin codes */
+body {
+  margin: 20px;
+  font-family: verdana, geneva, tahoma, sans-serif;
+}
+
+.avatar {
+  width: 150px;
+}
+
+.card {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  width: 400px;
+  margin: 0 auto;
+
+  text-align: center;
+  background: #fca311;
+  color: #14213d;
+  border-bottom: 6px solid #000000;
+  border-radius: 10px;
+}
+
+.border-blue {
+  border: 1px dotted blue;
+}
+
+img {
+  border-radius: 10px;
+}
